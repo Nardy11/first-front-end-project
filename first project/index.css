@@ -1,0 +1,34 @@
+body{
+    
+    background-color: rgb(8, 177, 255);
+}
+.elemet0{
+   
+    border:1px solid black;
+    width: 600px;
+    height: 600px;
+}
+#element1{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(71, 23, 202);
+    
+    border: 3px solid black;
+}
+#element2{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(163, 202, 23);
+    margin-left: 206px;
+
+ border: solid black;
+}
+#element3{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(202, 23, 23);
+    
+ margin-left: 412px;
+ border: solid black;
+}
+
