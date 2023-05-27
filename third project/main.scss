@@ -1,0 +1,190 @@
+  body{
+    margin: 0%;
+    height: 100vh;
+    cursor: url('christmas_elf_and_santa_claus_pointer.png'),pointer;
+    background-position: center;
+    background-image:url(https://image.shutterstock.com/image-vector/snow-red-background-christmas-snowy-260nw-1708651111.jpg);
+    background-repeat: no-repeat;
+    background-size:percentage($number: 10);
+
+    }
+    #hi{
+      position:relative;
+      width:fit-content;
+      border: black;
+      border-width: 5px;
+      border-style:solid;
+      background-color: white;  
+  } 
+  #cs{
+      color: gold;
+      position: center;
+  }
+  #group1{
+  #p1{
+      padding: 10px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 20px;
+      margin-bottom: 70px;
+      width:fit-content;
+      border: black;
+      border-width: 5px;
+      border-style:solid;
+      background-color: #606279;
+  }#p2{
+      padding: 10px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 20px;
+      margin-bottom: 70px;
+      width:fit-content;
+      border: black;
+      border-width: 5px;
+      border-style:solid;
+      background-color: #a5ccf3;
+  }#p3{
+    
+      padding: 10px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 20px;
+      margin-bottom: 70px;
+      width:fit-content;
+      border: black;
+      border-width: 5px;
+      border-style:solid;
+      background-color: #4d2f21;
+  } display: flex;}
+  #group2{
+  #p4{
+      
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 70px;
+    width:fit-content;
+    border: black;
+    border-width: 5px;
+    border-style:solid;
+    background-color: #b9b8b2;
+  }#p5{
+      
+      padding: 10px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 20px;
+      margin-bottom: 70px;
+      width:fit-content;
+      border: black;
+      border-width: 5px;
+      border-style:solid;
+    background-color: #2a1e1c;
+  }#p6{
+      
+      padding: 10px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 20px;
+      margin-bottom: 70px;
+      border: black;
+      border-width: 5px;
+      border-style:solid;
+      background-color: #787e76;
+  } display: flex;
+  
+}  #group3{
+  #pp1{
+      padding: 10px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 20px;
+      margin-bottom: 70px;
+      border: black;
+      border-width: 5px;
+      border-style:solid;
+      background-color: green; 
+      color: gold;
+    
+  }
+  #pp2{
+      padding: 10px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 20px;
+      margin-bottom: 70px;
+      border: black;
+      border-width: 5px;
+      border-style:solid;
+      background-color: green; 
+      color: gold;
+  }#pp3{
+    color: gold;
+      padding: 10px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 20px;
+      margin-bottom: 70px;
+      border: black;
+      border-width: 5px;
+      border-style:solid;
+      background-color: green; 
+    
+  } display: flex;}
+  #group4{
+  #pp4{
+    color: gold;
+      padding: 10px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 20px;
+      margin-bottom: 70px;
+      border: black;
+      border-width: 5px;
+      border-style:solid;
+      background-color: green;
+    
+  }#pp5{
+    color: gold;
+      padding: 10px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 20px;
+      margin-bottom: 70px;
+      border: black;
+      border-width: 5px;
+      border-style:solid;
+      background-color: green;
+  }#pp6{
+      background-color: green;
+      padding: 10px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 20px;
+      margin-bottom: 70px;
+      border: black;
+      border-width: 5px;
+      border-style:solid;
+      color: gold;
+
+  } display: flex;
+}
+#pp1 :hover{
+  color: lightgreen;
+}
+#pp2 :hover{
+  color: rgb(163, 6, 6);
+}
+#pp3 :hover{
+  color: red;
+}
+#pp4 :hover{
+  color: black;
+}
+#pp5 :hover{
+ color: #053b94;
+}
+#pp6 :hover{
+  color: #053b94;
+}

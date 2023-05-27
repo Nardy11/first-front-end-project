@@ -1,0 +1,324 @@
+body {
+  margin: 0%;
+  height: 100%;
+  cursor: url("christmas_elf_and_santa_claus_pointer.png"), pointer;
+  background-position: center;
+  background-image: url(https://i.pinimg.com/originals/06/d8/b1/06d8b19a21a3f332e54ef23883be74cb.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  text-align: center;
+  
+}
+#hi {
+  position: relative;
+  width: fit-content;
+  border: black;
+  border-width: 5px;
+  background-color: #afa79c;
+  border-style: solid;
+  padding: 10px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+#cs{
+  color: gold;
+  position: center;
+  margin: 0 auto;
+}
+.pp0{
+      color: gold;
+      padding: 10px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 20px;
+      margin-bottom: 70px;
+      border: black;
+      border-width: 5px;
+      border-style:solid;
+      background-color: green; 
+      margin: 0 auto;
+      
+    }
+  .pp0:hover{
+    color: aqua;
+    background-color: black;
+  }
+#group1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 auto;
+}
+
+#group1 #p1 {
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: black;
+  border-width: 5px;
+  border-style: solid;
+  background-color: #606279;
+  margin: 0 auto;
+  margin-bottom: 10px;
+ }
+
+#group1 #p2 {
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: black;
+  border-width: 5px;
+  border-style: solid;
+  background-color: #a5ccf3;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+#group1 #p3 {
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: black;
+  border-width: 5px;
+  border-style: solid;
+  background-color: #4d2f21;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+#group2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 auto;  
+}
+
+#group2 #p4 {
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: black;
+  border-width: 5px;
+  border-style: solid;
+  background-color: #b9b8b2;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+#group2 #p5 {
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: black;
+  border-width: 5px;
+  border-style: solid;
+  background-color: #2a1e1c;
+  margin: 0 auto;
+  margin-bottom: 10px;
+ }
+
+#group2 #p6 {
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  border: black;
+  border-width: 5px;
+  border-style: solid;
+  background-color: #787e76;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+#p7 {
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  border: black;
+  border-width: 5px;
+  border-style: solid;
+  background-color: #6b6b62;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  width: 300px;
+}
+
+#group3 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 auto;
+}
+
+#group3 #pp1 {
+  color: gold;
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  border: black;
+  border-width: 5px;
+  border-style:solid;
+  background-color: green; 
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+#group3 #pp2 {
+  color: gold;
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  border: black;
+  border-width: 5px;
+  border-style: solid;
+  background-color: green;
+  margin: 0 auto;
+  margin-bottom: 10px;
+
+}
+
+#group3 #pp3 {
+  color: gold;
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  border: black;
+  border-width: 5px;
+  border-style: solid;
+  background-color: green;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+#group4 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 auto;
+}
+
+#group4 #pp4 {
+  color: gold;
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  border: black;
+  border-width: 5px;
+  border-style: solid;
+  background-color: green;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+#group4 #pp5 {
+  color: gold;
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  border: black;
+  border-width: 5px;
+  border-style: solid;
+  background-color: green;
+  margin: 0 auto; 
+  margin-bottom: 10px;
+}
+
+#group4 #pp6 {
+  background-color: green;
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  border: black;
+  border-width: 5px;
+  border-style: solid;
+  color: gold;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+ #pp7 {
+  color: gold;
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  border: black;
+  border-width: 5px;
+  border-style:solid;
+  background-color: green; 
+  margin: 0 auto;
+  width: 300px;
+}
+
+#group3 #pp1:hover{
+  color: rgb(37, 223, 37);
+  background-color: black;
+}
+
+#group3 #pp2:hover{
+  color: rgb(112, 13, 13);
+  background-color: black;
+}
+
+#group3 #pp3:hover{
+  color: red;
+  background-color: black;
+}
+
+#group4 #pp4:hover{
+  color: black;
+  background-color: rgb(16, 113, 192);
+}
+#group4 #pp5:hover{
+  color: rgb(81, 81, 248);
+  background-color: black;
+}
+#group4 #pp6:hover{
+  color: rgb(81, 81, 248);
+  background-color: black;
+}
+#pp7:hover{
+  color: aqua;
+  background-color: black;
+}
+
+/*# sourceMappingURL=main.css.map */
