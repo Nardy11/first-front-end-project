@@ -1,0 +1,38 @@
+ p {
+   display: inline;
+ 
+
+}
+*{
+    background-color: #1a1e2a;
+}
+
+.first ,#nd,#st{
+    background-color: #1c2230;
+    padding: 50px;
+    border: none;
+    margin: 30px; ;
+}
+#lol{
+    display: flex;
+}
+#lmao{
+    display: flex;
+}
+#lol > #st,#nd,.first{   
+    color: #48a8bb;
+    text-shadow: 1px 5px 10px #48a8bb;
+}
+#lmao > th , p , h2 {
+ color: #48a8bb;
+ text-shadow: 1px 5px 10px #48a8bb;
+}
+
+a{
+    color: #8b75fc;
+    text-shadow: 1px 5px 10px #8b75fc;
+}
+#pic{
+    margin-left: 70px;
+    margin-top: 70px;
+}
